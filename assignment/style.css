@@ -19,6 +19,9 @@ p {
 }
 
 /* Put a border around your image */
+img {
+    border: 5px solid #555;
+}
 
 /* Change the font-family of your list */
 ul {
